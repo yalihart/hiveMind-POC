@@ -29,8 +29,8 @@
 	"dependencies": {
 		"@tailwindcss/vite": "^4.0.8",
 		"html2pdf": "^0.0.11",
-		"html2pdf.js": "^0.10.2",
-		"jspdf": "^3.0.0",
+		"html2pdf.js": "^0.10.3",
+		"jspdf": "^3.0.2",
 		"openai": "^4.85.4",
 		"snarkdown": "^1.0.2",
 		"tailwindcss": "^4.0.8"
